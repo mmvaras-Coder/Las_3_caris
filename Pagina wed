@@ -15,9 +15,9 @@
 
 
 
-
+<div>
 <img src="serio.png"> 
-
+</div>
  <h2>¿Cuál es tu coche favorito?</h2>
 <form method="post">
     <label>
